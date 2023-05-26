@@ -1,0 +1,138 @@
+.container {
+    max-width:600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 20px;
+    background-color: #ffffff;
+  }
+  
+  h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #2C3E50;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;    
+    margin-bottom: 10px;
+    color: #2C3E50;
+  }
+  
+  button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #0072C6;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #4a4575;
+  }
+  
+  .btn-danger {
+    background-color: #D9534F;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    float: right;
+    margin-top: 10px;
+  }
+  
+  .btn-danger:hover {
+    background-color: #C9302C;
+  }
+  
+  #user-info {
+    margin-top: 20px;
+  }
+  
+  #shipping-result {
+    margin-top: 20px;
+  }
+.container {
+    max-width:600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 20px;
+    background-color: #ffffff;
+  }
+  
+  h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #2C3E50;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;    
+    margin-bottom: 10px;
+    color: #2C3E50;
+  }
+  
+  button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #0072C6;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #4a4575;
+  }
+  
+  .btn-danger {
+    background-color: #D9534F;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    float: right;
+    margin-top: 10px;
+  }
+  
+  .btn-danger:hover {
+    background-color: #C9302C;
+  }
+  
+  #user-info {
+    margin-top: 20px;
+  }
+  
+  #shipping-result {
+    margin-top: 20px;
+  }
+  
+  body {
+    background: linear-gradient(to bottom, #1e5799, #2989d8);
+  }
+  
+  
